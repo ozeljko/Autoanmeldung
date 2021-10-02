@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Autoanmeldung/static/css/main.0ccd1fe4.chunk.css",
+    "main.js": "/Autoanmeldung/static/js/main.ff36355f.chunk.js",
+    "main.js.map": "/Autoanmeldung/static/js/main.ff36355f.chunk.js.map",
+    "runtime-main.js": "/Autoanmeldung/static/js/runtime-main.b63a94e2.js",
+    "runtime-main.js.map": "/Autoanmeldung/static/js/runtime-main.b63a94e2.js.map",
+    "static/css/2.f2512455.chunk.css": "/Autoanmeldung/static/css/2.f2512455.chunk.css",
+    "static/js/2.daef1929.chunk.js": "/Autoanmeldung/static/js/2.daef1929.chunk.js",
+    "static/js/2.daef1929.chunk.js.map": "/Autoanmeldung/static/js/2.daef1929.chunk.js.map",
+    "static/js/3.4ba9136b.chunk.js": "/Autoanmeldung/static/js/3.4ba9136b.chunk.js",
+    "static/js/3.4ba9136b.chunk.js.map": "/Autoanmeldung/static/js/3.4ba9136b.chunk.js.map",
+    "index.html": "/Autoanmeldung/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Autoanmeldung/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.0ccd1fe4.chunk.css.map": "/Autoanmeldung/static/css/main.0ccd1fe4.chunk.css.map",
+    "static/js/2.daef1929.chunk.js.LICENSE.txt": "/Autoanmeldung/static/js/2.daef1929.chunk.js.LICENSE.txt",
+    "static/media/Autoanmeldung_styles.css": "/Autoanmeldung/static/media/car-002-bkg.00c7dec2.jpg",
+    "static/media/Listing_styles.css": "/Autoanmeldung/static/media/speedometer001.c132cc5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63a94e2.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.daef1929.chunk.js",
+    "static/css/main.0ccd1fe4.chunk.css",
+    "static/js/main.ff36355f.chunk.js"
+  ]
+}
